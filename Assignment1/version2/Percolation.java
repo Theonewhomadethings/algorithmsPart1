@@ -1,7 +1,7 @@
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 import edu.princeton.cs.algs4.StdOut;
 
-class Percolation {
+public class Percolation {
     // N size of grid, all squares are closed
     private int size;
     private boolean[] grid;
